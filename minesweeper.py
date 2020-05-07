@@ -267,11 +267,13 @@ class MinesweeperAI:
         Returns a move to make on the Minesweeper board.
         """
 
+        options = list()
+
         forbidden = self.mines.union(self.moves_made)
 
         for i in range(self.height):
             for j in range(self.width):
                 if (i, j) not in forbidden:
-                    return i, j
+                    options.append((i, j))
 
-        return None
+        return random.choice(options) if options else None
