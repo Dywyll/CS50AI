@@ -1,0 +1,10 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ 6AEA-BE32
+
+ Pasta de C:\Users\Me\Downloads\CS50AI
+
+24/07/2020  07:02    <DIR>          .
+24/07/2020  07:02    <DIR>          ..
+24/07/2020  07:02                 0 delete.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   704.594.677.760 bytes dispon¡veis
